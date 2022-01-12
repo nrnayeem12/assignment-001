@@ -1,0 +1,129 @@
+body{
+    margin: 0;
+}
+header{
+    text-align: center;
+}
+
+.flex-container{
+    display: flex;
+    margin-bottom: 100px;
+    margin-top: 60px;
+}
+
+.half-width img{
+    width: 50%;
+}
+
+.half-width{
+    width:50%;
+    border: 10px 30px;
+    margin-left: 100px;  
+}
+
+.half-width p{
+    text-align: justify;
+    margin-right: 40px;
+}
+
+.mission-2022{
+    font-size: 25px;
+    border-left: 4px solid rgb(153, 5, 29);
+    margin-top: 30px;
+
+}
+
+.mission-2022 h1{
+    margin-left: 8px;
+    font-weight: 500;  
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+}
+
+#orange-color{
+    color: orange;
+}
+
+.explore-button{
+    text-decoration: none;
+    background-image: linear-gradient(PINK);
+    opacity: 90%;
+    color: whitesmoke;
+    font-weight: 500;
+    background-color: purple;
+    padding: 5px 20px;
+    border-radius: 2px;
+}
+
+#my-mission{
+    text-align: center;
+    font-weight: 700; 
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+    
+.part2-box{
+    width: 33.33%;
+    margin-left: 4%;
+    margin-right: 4%;
+    padding-left: 1%;
+    padding-right: 1%;
+    border: 0px solid ;
+    border-radius: 5px;
+    text-align: justify;
+    padding-bottom: 1%;
+}
+
+.part2-box img{
+    width: 300px;
+    margin: auto;
+    display: block;
+}
+
+.box1{
+    background-color: rgb(12, 167, 164);
+}
+.box2{
+    background-color: rgb(150, 48, 150);
+}
+.box3{
+    background-color: #e48a16;
+}
+
+#part-3{
+    padding:10px 0px 0px 85px;
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 200px; 
+}
+
+
+.half-width1{
+    width: 70% 30%;
+    border: 10px 30px;
+    margin-left: 100px; 
+    padding-bottom: 200px;
+}
+
+.half-width1 img{
+    width: 50%;
+    margin-right: 0%;
+    
+}
+.part4{
+    padding: 0px 0px 0px ;
+    background-repeat: no-repeat;
+    background-position: 50% 85%;
+    background-size: 200px; 
+}
+
+#red-color{
+    color: orangered;
+}
+
+footer{
+    background-color: black;
+    text-align: center;
+    color: white;
+    margin: 0px 0px;
+    padding: 10px 0px 10px 10px;
+}
